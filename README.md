@@ -11,7 +11,7 @@ If you want you can run the .exe files automatically before running the CFA, I d
 > Start-Process -FilePath "PATH TO CFA\Text\Remove Banlist.exe" -WorkingDirectory "PATH TO CFA\Text"
 
 ## Remove Banlist
-This script removes the Premium and Standard banlist from the default clan txt files (does not include, the nation files).
+This script removes the Premium and Standard banlist from the default clan txt files (does not include the nation files).
 
 ## Clan Changes
 This script changes the EX files to move the EX cards to be alongside the official cards.
