@@ -82,7 +82,8 @@ int main() {
         "Nova Grappler.txt",
         "Dimension Police.txt",
         "Link Joker.txt",
-        "Cray Elemental.txt"
+        "Cray Elemental.txt",
+        "Order Cards.txt"
     };
 
     for (size_t i = 0; i < files.size(); ++i) {
