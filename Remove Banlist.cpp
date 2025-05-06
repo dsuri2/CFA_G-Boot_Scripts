@@ -83,7 +83,8 @@ int main() {
         "Dimension Police.txt",
         "Link Joker.txt",
         "Cray Elemental.txt",
-        "Order Cards.txt"
+        "Order Cards.txt",
+        "Touken Ranbu.txt"
     };
 
     for (size_t i = 0; i < files.size(); ++i) {
